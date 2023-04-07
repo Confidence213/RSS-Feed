@@ -45,7 +45,7 @@ FeeDFeeDy is an open source RSS Feed Reader that you can use it to follow news f
   - [ ] and more ...
   
 ## Contact Us
-  **Email : Dani.nasiri@gmail.com** 
+  **Email : jackcolin21307@gmail.com** 
 
 ## Licence 
   > MIT
